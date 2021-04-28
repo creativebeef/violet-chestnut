@@ -1,6 +1,6 @@
 ---
 title: Home
-intro_image: images/features/noun_3d modeling_1885342.svg
+intro_image: images/4.jpg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
